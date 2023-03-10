@@ -3,7 +3,7 @@
 
 - 💼 Atualmente eu estou trabalhando com Programação Lógica em [RoboTec](https://www.ireso.org/pt/robotec-pt/)
 
-- 💻 Atualmente eu estou aprendendo **Fundamentos de segurança cibernética.**
+- 💻 Atualmente eu estou aprendendo **Aplicações de dados em Excel.**
 
 - 👨‍💻 Você pode ver meus projetos em [https://github.com/LunpaTunpa/Portfolio](https://github.com/LunpaTunpa/Portfolio)
 
