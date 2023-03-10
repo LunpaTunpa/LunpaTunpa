@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou o Leonardo (LunpaTunpa)!</h1>
+<h1 align="center">Olá 👋, eu sou o Leonardo (LunpaTunpa)!</h1>
 <h3 align="center">Estou interessado em analise e desenvolvimento de banco de dados.</h3>
 
 - 💼 Atualmente eu estou trabalhando com Programação Lógica em [RoboTec](https://www.ireso.org/pt/robotec-pt/)
