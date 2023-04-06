@@ -5,9 +5,9 @@
 
 - 💻 Atualmente eu estou aprendendo **Análise de dados com PYTHON.**
 
-- 👨‍💻 Você pode ver meus projetos em [https://github.com/LunpaTunpa/Portfolio](https://github.com/LunpaTunpa/Portfolio)
+- 👨‍💻 Você pode ver meus projetos em [data_repository](https://github.com/LunpaTunpa/Portfolio) ou em [random_repository](https://github.com/LunpaTunpa/Portfolio)
 
-- ⚡ Fato interessante sobre mim, eu **amo filosofia.**
+- ⚡ Fato interessante sobre mim, eu **pratico corrida de rua.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
