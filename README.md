@@ -5,7 +5,7 @@
 
 - 💻 Atualmente eu estou aprendendo **Análise de dados com PYTHON.**
 
-- 👨‍💻 Você pode ver meus projetos em [data_repository](https://github.com/LunpaTunpa/Portfolio) ou em [random_repository](https://github.com/LunpaTunpa/Portfolio)
+- 👨‍💻 Você pode ver meus projetos em [data_repository](https://github.com/LunpaTunpa/data_repository) ou em [random_repository](https://github.com/LunpaTunpa/Portfolio)
 
 - ⚡ Fato interessante sobre mim, eu **pratico corrida de rua.**
 
