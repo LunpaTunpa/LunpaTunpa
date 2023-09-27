@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, Eu sou o Leonardo (LunpaTunpa)!</h1>
-<h3 align="center">Estou interessado em analise e desenvolvimento de banco de dados.</h3>
+<h3 align="center">Estou interessado em Segurança da Informação aplicada a operações TI.</h3>
 
-- 💼 Atualmente eu sou **Prestador de serviços TI**.
+- 💼 Atualmente eu sou **Especialista em Suporte de TI**.
 
-- 💻 Atualmente eu estou aprendendo **Análise de dados com PYTHON.**
+- 💻 Atualmente eu estou aprendendo **Cibersegurança com PYTHON.**
 
 - 👨‍💻 Você pode ver meus projetos em [data_repository](https://github.com/LunpaTunpa/data_repository) ou em [random_repository](https://github.com/LunpaTunpa/Portfolio)
 
-- ⚡ Fato interessante sobre mim, eu **pratico corrida de rua.**
+- ⚡ Fato interessante sobre mim, eu adoro **Filosofia.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
