@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Leonardo (LunpaTunpa)!</h1>
 <h3 align="center">Estou interessado em Segurança da Informação aplicada a operações TI.</h3>
 
-- 💼 Atualmente eu sou **Especialista em Suporte de TI**.
+- 💼 Atualmente eu sou **Analista em Suporte de TI**.
 
 - 💻 Atualmente eu estou aprendendo **Cibersegurança com PYTHON.**
 
