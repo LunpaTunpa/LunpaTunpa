@@ -1,13 +1,11 @@
-<h1 align="center">Olá 👋, Eu sou o Leonardo (LunpaTunpa)!</h1>
+<h1 align="center">Olá 👋, Eu sou o Leonardo Rodrigues(LunpaTunpa)!</h1>
 <h3 align="center">Estou interessado em Segurança da Informação aplicada a operações TI.</h3>
 
 - 💼 Atualmente eu sou **Analista em Suporte de TI**.
 
 - 💻 Atualmente eu estou aprendendo **Cibersegurança com PYTHON.**
 
-- 👨‍💻 Você pode ver meus projetos em [data_repository](https://github.com/LunpaTunpa/data_repository) ou em [random_repository](https://github.com/LunpaTunpa/Portfolio)
-
-- ⚡ Fato interessante sobre mim, eu adoro **Filosofia.**
+- 👨‍💻 Você pode ver meus projetos em [data_repository](https://github.com/LunpaTunpa/data_repository) || [random_repository](https://github.com/LunpaTunpa/Portfolio) || [clear_script_repository](https://github.com/LunpaTunpa/clear_script_repository)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
