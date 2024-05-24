@@ -5,7 +5,7 @@
 
 - 💻 Atualmente eu estou aprendendo **Cibersegurança com PYTHON.**
 
-- 👨‍💻 Você pode ver meus projetos em [data_repository](https://github.com/LunpaTunpa/data_repository) || [random_repository](https://github.com/LunpaTunpa/Portfolio) || [clear_script_repository](https://github.com/LunpaTunpa/clear_script_repository) || [assist_system_repository]([https://github.com/LunpaTunpa/Portfolio](https://github.com/LunpaTunpa/assist_system)) 
+- 👨‍💻 Você pode ver meus projetos em [data_repository](https://github.com/LunpaTunpa/data_repository) || [random_repository](https://github.com/LunpaTunpa/Portfolio) || [clear_script_repository](https://github.com/LunpaTunpa/clear_script_repository) || [assist_system_repository](https://github.com/LunpaTunpa/assist_system) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
