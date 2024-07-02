@@ -3,7 +3,7 @@
 
 - 💼 Atualmente eu sou **Analista em Suporte de TI**.
 
-- 💻 Atualmente eu estou aprendendo **Cibersegurança com PYTHON.**
+- 💻 Atualmente eu estou aprendendo **Infraestrutura TI**.
 
 - 👨‍💻 Você pode ver meus projetos em [data_repository](https://github.com/LunpaTunpa/data_repository) || [random_repository](https://github.com/LunpaTunpa/Portfolio) || [clear_script_repository](https://github.com/LunpaTunpa/clear_script_repository) || [assist_system_repository](https://github.com/LunpaTunpa/assist_system) || [cybersecurity_repository](https://github.com/LunpaTunpa/cybersecurity_repository)
 
