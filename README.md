@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou o Leonardo Rodrigues(LunpaTunpa)!</h1>
-<h3 align="center">Estou interessado em Segurança da Informação aplicada a operações TI.</h3>
+<h3 align="center">Estou interessado em Desenvolvimento de Sistemas Embarcados.</h3>
 
-- 💼 Atualmente eu sou **Analista em Suporte de TI**.
+- 💼 Atualmente eu sou **Estágiario em Engenharia Eletronica e Correlatas na Fictix Soluções Tecnológicas**.
 
-- 💻 Atualmente eu estou aprendendo **Infraestrutura TI**.
+- 💻 Atualmente eu estou aprendendo **Desenvolvimento em ESP32 para SIstemas eletronicos de Comunicação Visual**.
 
 - 👨‍💻 Você pode ver meus projetos em [data_repository](https://github.com/LunpaTunpa/data_repository) || [random_repository](https://github.com/LunpaTunpa/Portfolio) || [clear_script_repository](https://github.com/LunpaTunpa/clear_script_repository) || [assist_system_repository](https://github.com/LunpaTunpa/assist_system) || [cybersecurity_repository](https://github.com/LunpaTunpa/cybersecurity_repository)
 
@@ -14,4 +14,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.espressif.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" alt="espressif" width="40" height="40"/> </a> <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/250px-The_C_Programming_Language_logo.svg.png" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer"> <img src="https://kineticit.com.au/wp-content/uploads/2022/10/AWS_logo.png" alt="aws" width="40" height="40"/> </a> </p>
