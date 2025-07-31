@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Leonardo Rodrigues(LunpaTunpa)!</h1>
-<h3 align="center">Estou interessado em Desenvolvimento de Sistemas Embarcados.</h3>
+<h3 align="center">Estou interessado em Desenvolvimento de Sistemas.</h3>
 
 - 💼 Atualmente eu sou **Estágiario em Engenharia Eletronica e Correlatas na Fictix Soluções Tecnológicas**.
 - 💻 Atualmente eu estou aprendendo **Desenvolvimento em ESP32 para Sistemas eletronicos de Comunicação Visual - Foco em C e Java**.
