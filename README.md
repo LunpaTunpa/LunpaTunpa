@@ -1,8 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Leonardo Rodrigues(LunpaTunpa)!</h1>
-<h3 align="center">Sou um Engenheiro da Computação em formação.</h3>
-
-- 💼 Atuo como **Estágiario em Engenharia Eletronica e Correlatas na Fictix Soluções Tecnológicas**.
-- 💻 Estou aprendendo **Desenvolvimento em ESP32 para Sistemas eletronicos de Comunicação Visual - Foco em C e Java**.
+<h3 align="center">Sou um Engenheiro da Computação.</h3>
 
 - 👨‍💻 Você pode ver meus estudos e projetos em [data_repository](https://github.com/LunpaTunpa/data_repository) || [random_repository](https://github.com/LunpaTunpa/Portfolio) || [clear_script_repository](https://github.com/LunpaTunpa/clear_script_repository) || [assist_system_repository](https://github.com/LunpaTunpa/assist_system) || [cybersecurity_repository](https://github.com/LunpaTunpa/cybersecurity_repository) || [uml_repository](https://github.com/LunpaTunpa/uml_repository)
 
