@@ -1,5 +1,4 @@
 <h1 align="center">Olá 👋, Eu sou o Leonardo Rodrigues(LunpaTunpa)!</h1>
-<h3 align="center">Sou um Engenheiro da Computação.</h3>
 
 - 👨‍💻 Você pode ver meus estudos e projetos em [data_repository](https://github.com/LunpaTunpa/data_repository) || [random_repository](https://github.com/LunpaTunpa/Portfolio) || [clear_script_repository](https://github.com/LunpaTunpa/clear_script_repository) || [assist_system_repository](https://github.com/LunpaTunpa/assist_system) || [cybersecurity_repository](https://github.com/LunpaTunpa/cybersecurity_repository) || [uml_repository](https://github.com/LunpaTunpa/uml_repository)
 
